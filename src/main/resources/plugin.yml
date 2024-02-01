@@ -1,0 +1,6 @@
+name: ProtectUsingChestKeys
+version: '${project.version}'
+main: me.kadotcom.protectusingchestkeys.PUCK
+api-version: '1.13'
+authors: [KadotCom]
+description: Allows players to lock chests using keys.
